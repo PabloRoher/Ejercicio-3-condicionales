@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ElTiempo {
+public class ElTiempoV2 {
     public static void main(String[] args){
         int c;
         System.out.println("Introduce la temperatura actual en grados: ");
